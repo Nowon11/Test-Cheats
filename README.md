@@ -19,7 +19,8 @@ How to Use These Cheats
 - B: Top-right corner (Line 51)
 - C: Bottom-left corner (Line 53)
 - D: Bottom-right corner (Line 55)
-  These coordinates tell the program where each possible answer is located on your screen.
+
+These coordinates tell the program where each possible answer is located on your screen.
 
 4. Using the Cheats
 
@@ -33,3 +34,4 @@ How to Use These Cheats
 - The program can make mistakes, especially when dealing with images
 - It works best with questions that have clear, readable text
 - Double-check any answers before submitting
+
