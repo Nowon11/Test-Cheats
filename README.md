@@ -32,10 +32,11 @@ These coordinates tell the program where each possible answer is located on your
 - Wait for the program to process the answer
 - The program will automatically move your mouse to the corner you defined earlier corresponding to the selected answer
 
-⚠️ Important Notes
+Important Notes
 
 - The program can make mistakes, especially when dealing with images
 - It works best with questions that have clear, readable text
-- Double-check any answers before submitting
+- Double-check answers before submitting
+
 
 
