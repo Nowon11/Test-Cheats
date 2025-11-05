@@ -34,13 +34,10 @@ while True:
         question = pytesseract.image_to_string(image)
         print(question)
 
-
-
         response = client.responses.create(
             model="gpt-5-nano",
             input=f"Answer this question with either 1, 2, 3, 4, etc. corresponding to the number answer it is from the question: {question}"
         )
-
         
         answer = response.output_text
         print(answer)
@@ -55,4 +52,5 @@ while True:
             pyautogui.moveTo((2500, 1500))
 
         a_pressed = 0
+
         b_pressed = 0
