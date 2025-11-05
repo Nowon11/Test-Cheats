@@ -1,3 +1,6 @@
+# WARNING THESE ARE NOT FREE
+
+
 How to Use These Cheats
 
 1. Set Up Your OpenAI API Key
@@ -34,4 +37,5 @@ These coordinates tell the program where each possible answer is located on your
 - The program can make mistakes, especially when dealing with images
 - It works best with questions that have clear, readable text
 - Double-check any answers before submitting
+
 
